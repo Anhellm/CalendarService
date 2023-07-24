@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CalendarService</id>
+    <version>1.0.0</version>
+    <authors>CalendarService</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="AngleSharp" version="1.0.4" exclude="Build,Analyzers" />
+        <dependency id="NLog" version="5.2.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\Dev\ProductionCalendar\ProductionCalendar\bin\Debug\netstandard2.0\CalendarService.dll" target="lib\netstandard2.0\CalendarService.dll" />
+  </files>
+</package>
