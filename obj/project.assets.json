@@ -422,11 +422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Dev\\ProductionCalendar\\ProductionCalendar\\CalendarService.csproj",
+      "projectUniqueName": "G:\\Dev\\ProductionCalendar\\CalendarService\\CalendarService.csproj",
       "projectName": "CalendarService",
-      "projectPath": "G:\\Dev\\ProductionCalendar\\ProductionCalendar\\CalendarService.csproj",
+      "projectPath": "G:\\Dev\\ProductionCalendar\\CalendarService\\CalendarService.csproj",
       "packagesPath": "C:\\Users\\Andrey Morzhukhin\\.nuget\\packages\\",
-      "outputPath": "G:\\Dev\\ProductionCalendar\\ProductionCalendar\\obj\\",
+      "outputPath": "G:\\Dev\\ProductionCalendar\\CalendarService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

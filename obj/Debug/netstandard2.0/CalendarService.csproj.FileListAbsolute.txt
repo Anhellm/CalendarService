@@ -8,3 +8,13 @@ G:\Dev\ProductionCalendar\ProductionCalendar\obj\Debug\netstandard2.0\CalendarSe
 G:\Dev\ProductionCalendar\ProductionCalendar\obj\Debug\netstandard2.0\CalendarService.csproj.CoreCompileInputs.cache
 G:\Dev\ProductionCalendar\ProductionCalendar\obj\Debug\netstandard2.0\CalendarService.dll
 G:\Dev\ProductionCalendar\ProductionCalendar\obj\Debug\netstandard2.0\CalendarService.pdb
+G:\Dev\ProductionCalendar\CalendarService\bin\Debug\netstandard2.0\CalendarService.deps.json
+G:\Dev\ProductionCalendar\CalendarService\bin\Debug\netstandard2.0\CalendarService.dll
+G:\Dev\ProductionCalendar\CalendarService\bin\Debug\netstandard2.0\CalendarService.pdb
+G:\Dev\ProductionCalendar\CalendarService\obj\Debug\netstandard2.0\CalendarService.csproj.AssemblyReference.cache
+G:\Dev\ProductionCalendar\CalendarService\obj\Debug\netstandard2.0\CalendarService.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dev\ProductionCalendar\CalendarService\obj\Debug\netstandard2.0\CalendarService.AssemblyInfoInputs.cache
+G:\Dev\ProductionCalendar\CalendarService\obj\Debug\netstandard2.0\CalendarService.AssemblyInfo.cs
+G:\Dev\ProductionCalendar\CalendarService\obj\Debug\netstandard2.0\CalendarService.csproj.CoreCompileInputs.cache
+G:\Dev\ProductionCalendar\CalendarService\obj\Debug\netstandard2.0\CalendarService.dll
+G:\Dev\ProductionCalendar\CalendarService\obj\Debug\netstandard2.0\CalendarService.pdb

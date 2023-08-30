@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xC9aaJsxaK4cExSzI6F63y1+LBfVIDB2HxKICEtkoZ8qUpB4yeu/JZYYpfuseRCYmXX7DPCwcaixAHC8BvchAA==",
+  "dgSpecHash": "H163RI7XINfX0i3iNYEaNYTLYIri/WLp1iYglP1pNp+vytBoaD8A7diz4efX/6v+KcUu6TLsVHJVp7136wSkJg==",
   "success": true,
-  "projectFilePath": "G:\\Dev\\ProductionCalendar\\ProductionCalendar\\CalendarService.csproj",
+  "projectFilePath": "G:\\Dev\\ProductionCalendar\\CalendarService\\CalendarService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrey Morzhukhin\\.nuget\\packages\\anglesharp\\0.17.0\\anglesharp.0.17.0.nupkg.sha512",
     "C:\\Users\\Andrey Morzhukhin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
